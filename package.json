@@ -1,0 +1,19 @@
+{
+  "name": "@arys/required-env",
+  "version": "1.0.0",
+  "description": "\npackage used to check if all the env variables are set for one service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arysbot/required-env.git"
+  },
+  "author": "torsina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arysbot/required-env/issues"
+  },
+  "homepage": "https://github.com/arysbot/required-env#readme"
+}
