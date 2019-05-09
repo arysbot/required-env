@@ -1,6 +1,6 @@
 {
   "name": "@arys/required-env",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "\npackage used to check if all the env variables are set for one service",
   "main": "index.js",
   "scripts": {
