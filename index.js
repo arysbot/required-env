@@ -11,5 +11,5 @@ module.exports = () => {
             missingVariables.push(envConfig[i]);
         }
     }
-    if(missingVariables.length !== 0) throw new Error(`The following environment variables are empty: ${envConfig}`);
+    if(missingVariables.length !== 0) throw new Error(`The following environment variables are empty: ${missingVariables}`);
 };
